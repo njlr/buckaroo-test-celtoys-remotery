@@ -1,0 +1,7 @@
+{
+  "name": "buckaroo-test-celtoys-remotery",
+  "dependencies": {
+    "celtoys/remotery": "1.11.0",
+    "google/gtest": "1.8.0"
+  }
+}
